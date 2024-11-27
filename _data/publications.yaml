@@ -1,0 +1,15 @@
+papers:
+  - title: "Spam Classification: Genetically Optimized Passive-Aggressive Approach"
+    year: 2022
+    authors: "<b><u>Priyatam Naravajhula</u></b>, Alekhya Naravajhula"
+    Journal: "SN Computer Science"
+    paper_pdf: "https://link.springer.com/article/10.1007/s42979-022-01517-y"
+    selected: y
+
+  - title: "Encoder Decoder Approach to Automated Essay Scoring For Deeper Semantic Analysis"
+    authors: "<b><u>Priyatam Naravajhula</u></b>, Sree Rayavarapu, Srujana Inturi"
+    venue: "ICON 2021: 18th International Conference on Natural Language Processing"
+    paper_pdf: "https://aclanthology.org/2021.icon-main.48.pdf"
+    selected: y
+
+  

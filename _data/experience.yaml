@@ -1,0 +1,33 @@
+experiences:
+
+- place: "Amazon"
+  time: "May. 2024 -  Aug. 2024"
+  title: "AWS Solutions Architect Intern"
+  subtitle: "Worked on building a domain-specific graph RAG pipeline for QnABot"
+  category: "work"
+
+- place: "Masters at UTD"
+  time: "Aug. 2023 - Present"
+  title: "Masters in Computer Science (Advisor: Dr. Vincent Ng)"
+  subtitle: "Working on improving recall score of retrieval augmented generation(RAG)"
+  category: "school"
+
+- place: "JP Morgan Chase & C.o."
+  time: "Feb. 2021 - Aug. 2023"
+  title: "DevOps Software Engineer"
+  subtitle: "Worked on EMR controller and other BigData solutions using Teraform for deployments to AWS"
+  category: "work"
+
+- place: "J.P Morgan Chase & C.o"
+  time: "May. 2020 - Jul. 2020"
+  title: "Software Engineer Intern"
+  subtitle: "Worked on developing android applications for banking utilities"
+  category: "school"
+
+- place: "Chaitanya Bharathi Institute of Technology (Affliated to Osmania)"
+  time: "Aug. 2017 - Jun. 2021"
+  title: "B.E in Computer Science"
+  subtitle: "Worked on Automated essay scoring systems and  advanced ML algorithms for spam classifications"
+  category: "work"
+
+
